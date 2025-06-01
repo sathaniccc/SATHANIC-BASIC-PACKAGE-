@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sathaniccc/SATHANIC-BASIC-PACKAGE-/main/logo.png" width="200"/>
+  <img src="https://i.ibb.co/XYZ123/yourimage.jpg" width="200"/>
 </p>
 
 ---
