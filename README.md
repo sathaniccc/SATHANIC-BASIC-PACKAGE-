@@ -6,7 +6,7 @@ A Termux tool that automatically installs basic packages and popular ethical hac
 
 ```bash
 pkg install git -y
-git clone https://github.com/yourname/sathanic-basic-package
+git clone https://github.com/sathaniccc/SATHANIC-BASIC-PACKAGE-
 cd sathanic-basic-package
 bash install.sh
 ```
