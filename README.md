@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/XYZ123/yourimage.jpg" width="200"/>
+  <img src="https://i.ibb.co/gLZt98gD" width="200"/>
 </p>
 
 ---
