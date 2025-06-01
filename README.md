@@ -1,27 +1,32 @@
-# SATHANIC BASIC PACKAGE 📦
+<h1 align="center">
+🔥 SATHANIC BASIC PACKAGE 📦 🔥
+</h1>
 
-A Termux tool that automatically installs basic packages and popular ethical hacking tools for beginners and enthusiasts.
+<p align="center">
+<img src="https://raw.githubusercontent.com/sathaniccc/SATHANIC-BASIC-PACKAGE-/main/logo.png" width="200"/>
+</p>
 
-## 📦 Installation
+---
+
+### 📦 What is this?
+
+**SATHANIC BASIC PACKAGE** is a powerful Termux starter tool made by 🧠 *Lucifer-X*. It installs essential packages and ethical hacking tools **automatically** with a cool menu and team branding!
+
+---
+
+### 🧰 Features:
+
+- 🔧 Basic Termux packages auto-install
+- 💻 Offline Python tools (port scanner, hash cracker, IP finder)
+- 🎨 Colorful terminal UI with logo & credits
+- 😈 Developed by: *SATHANIC HACKERS*
+
+---
+
+### ⚙️ Installation (Termux):
 
 ```bash
 pkg install git -y
 git clone https://github.com/sathaniccc/SATHANIC-BASIC-PACKAGE-
-cd sathanic-basic-package
+cd SATHANIC-BASIC-PACKAGE-
 bash install.sh
-```
-
-## 🔧 Included Tools
-
-- sqlmap
-- zphisher
-- fsociety
-- seeker
-- metagoofil
-- HiddenEye
-- IP-Tracer
-- termux-style
-- infect
-- hacker-roadmap
-
-> ⚠️ For educational and ethical use only!
